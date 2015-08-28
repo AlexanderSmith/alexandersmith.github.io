@@ -66,8 +66,8 @@ body {
 
 .Resume-button {
   float: left;
-  width: 25%;
-  height: 50%;
+  width: 50%;
+  height: 100%;
   font-size: 16px;
   color: white;
   text-align: center;
