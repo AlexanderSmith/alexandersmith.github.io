@@ -48,9 +48,9 @@ body {
 }
 
 .Social img{
-  width: 24px;
+  width: 32px;
   height: 100%;
-  float: center;
+  float: right;
 
   -webkit-transition: -webkit-transform 0.4s ease-out;
   -moz-transition: -moz-transform 0.4s ease-out;
@@ -66,8 +66,8 @@ body {
 
 .Resume-button {
   float: left;
-  width: 50%;
-  height: 100%;
+  width: 25%;
+  height: 50%;
   font-size: 22px;
   color: white;
   text-align: center;
