@@ -50,7 +50,7 @@ body {
 .Social img{
   width: 32px;
   height: 100%;
-  float: right;
+  float: center;
 
   -webkit-transition: -webkit-transform 0.4s ease-out;
   -moz-transition: -moz-transform 0.4s ease-out;
