@@ -1,5 +1,5 @@
 body {
-  background: url(images/simple_dashed.png);
+  background: #000000;
 }
 
 .CoverImage {
@@ -24,7 +24,7 @@ body {
 .TitleName {
   width: 50%;
   margin: 15px auto;
-  color:#95D8CD;
+  color:#ffffff ;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 60px;
   text-align: center;
@@ -34,7 +34,7 @@ body {
   width: 32%;
   margin: 0 auto;
   text-align: justify;
-  color:#95D8CD;
+  color:#ffffff ;
   font-family:  Arial, Helvetica, sans-serif;
 }
 
@@ -45,7 +45,7 @@ body {
 }
 
 .Social img{
-  width: 32px;
+  width: 34px;
   height: 100%;
   float: right;
 
@@ -67,15 +67,15 @@ body {
   width: 50%;
   height: 100%;
   font-size: 22px;
-  color: #95D8CD;
+  color: #ffffff;
   text-align: center;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0);
-  background: #211D3F;
+  background: #000000;
   border: 0;
-  border-bottom: 2px solid #211D3F;
+  border-bottom: 2px solid #000000;
   cursor: pointer;
-  -webkit-box-shadow: inset 0 -2px #211D3F;
-  box-shadow: inset 0 -2px #211D3F;
+  -webkit-box-shadow: inset 0 -2px #0000000;
+  box-shadow: inset 0 -2px #000000;
 }
 .Resume-button:active {
   top: 1px;
